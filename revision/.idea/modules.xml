@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RevAbstraction/RevAbstraction.iml" filepath="$PROJECT_DIR$/RevAbstraction/RevAbstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revision.iml" filepath="$PROJECT_DIR$/revision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revision2/revision2.iml" filepath="$PROJECT_DIR$/revision2/revision2.iml" />
+    </modules>
+  </component>
+</project>
